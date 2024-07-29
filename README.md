@@ -1,4 +1,4 @@
-### Hi there, I'm Yash Upadhyay [yashsupadhyay] (https://www.github.com/yashsupadhyay) 👋
+### Hi there, I'm Yash Upadhyay [yashsupadhyay] (https://github.com/yashsupadhyay) 👋
 
 <!--
 **yashsupadhyay/yashsupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
